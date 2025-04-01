@@ -34,8 +34,12 @@ A página foi projetada com um visual moderno e sofisticado, destacando-se pelos
 ---
 
 📷 **Captura de Tela** 
-![Versão Web](Projeto_Pesquisa_Google/img/screenshot_web_google_search.png)
-
+![Versão Web](Laging_page_inDecor/img/screenshot_web_inDecor_1.png)
+![Versão Web](Laging_page_inDecor/img/screenshot_web_inDecor_2.png)
+![Versão Web](Laging_page_inDecor/img/screenshot_web_inDecor_3.png)
+![Versão Web](Laging_page_inDecor/img/screenshot_web_inDecor_4.png)
+![Versão Web](Laging_page_inDecor/img/screenshot_web_inDecor_5.png)
+![Versão Web](Laging_page_inDecor/img/screenshot_web_inDecor_6.png)
 ---
 
 🔧 **Como Usar**
