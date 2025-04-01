@@ -38,7 +38,7 @@ A página foi projetada com um visual moderno e sofisticado, destacando-se pelos
 ![Versão Web](Laging_page_inDecor/img/screenshot_web_inDecor_2.png)
 ![Versão Web](Laging_page_inDecor/img/screenshot_web_inDecor_3.png)
 ![Versão Web](Laging_page_inDecor/img/screenshot_web_inDecor_4.png)
-![Versão Web](Laging_page_inDecor/img/screenshot_web_inDecor_5.png)
+![Versão Web](screenshot_web_inDecor_5.png)
 ![Versão Web](Laging_page_inDecor/img/screenshot_web_inDecor_6.png)
 ---
 
