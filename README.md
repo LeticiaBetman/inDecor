@@ -18,7 +18,7 @@ Este projeto é uma landing page para o evento **InDecor**, criado com HTML5 e C
 
 - HTML5 para a estrutura da página
 - CSS3 para estilização e responsividade
-- Flexbox e Grid para um layout organizadoHTML5 para a estrutura da página
+- Flexbox e Grid para um layout organizado
 
 ---
 
