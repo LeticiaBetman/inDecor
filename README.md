@@ -52,9 +52,13 @@ A página foi projetada com um visual moderno e sofisticado, destacando-se pelos
 
 2. Abra o arquivo `index.html` no seu navegador.
 
+---
+
 🎯 **Objetivo do Projeto**
 
 Este projeto foi desenvolvido com o objetivo de praticar e demonstrar habilidades em desenvolvimento web, incluindo HTML, CSS, design responsivo e experiência do usuário (UX/UI).
+
+---
 
 📜 **Licença**
 
